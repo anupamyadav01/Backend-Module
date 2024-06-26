@@ -1,0 +1,15 @@
+{
+  "name": "greetings-by-anupam",
+  "version": "1.0.0",
+  "description": "This is simple greeting package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "greeting",
+    "greet"
+  ],
+  "author": "Anupam Yadav",
+  "license": "ISC"
+}
